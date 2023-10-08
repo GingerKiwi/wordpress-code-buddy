@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74c4bce56cf6f8fb",
+  "active": "a21f6632a1b5d59d",
   "lastOpenFiles": [
+    "Docs/Hosting.md",
+    "README.md",
     "DesignFiles/coffeeroasters-subscription-site-figma/coffeeroasters-subscription-site.fig",
     "DesignFiles/coffeeroasters-subscription-site-figma/README.md",
     "DesignFiles/coffeeroasters-subscription-site/README-template.md",
@@ -170,9 +172,6 @@
     "DesignFiles/coffeeroasters-subscription-site/starter-code/assets/plan/tablet",
     "DesignFiles/coffeeroasters-subscription-site/starter-code/assets/plan/mobile",
     "DesignFiles/coffeeroasters-subscription-site/starter-code/assets/plan/desktop",
-    "DesignFiles/coffeeroasters-subscription-site/starter-code/assets/home/tablet",
-    "DesignFiles/coffeeroasters-subscription-site/README.md",
-    "Docs/Hosting.md",
-    "README.md"
+    "DesignFiles/coffeeroasters-subscription-site/README.md"
   ]
 }
