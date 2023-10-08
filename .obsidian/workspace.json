@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docs/Hosting.md",
+                "file": "Docs/CONTRIBUTING.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docs/Hosting.md",
+                "file": "Docs/CONTRIBUTING.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docs/Hosting.md",
+                "file": "Docs/CONTRIBUTING.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docs/Hosting.md"
+                "file": "Docs/CONTRIBUTING.md.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "74c4bce56cf6f8fb",
   "lastOpenFiles": [
-    "README.md",
     "Docs/Hosting.md",
+    "Docs/CONTRIBUTING.md.md",
+    "README.md",
     "DesignFiles/coffeeroasters-subscription-site-figma/coffeeroasters-subscription-site.fig",
     "DesignFiles/coffeeroasters-subscription-site-figma/README.md",
     "DesignFiles/coffeeroasters-subscription-site/README-template.md",
